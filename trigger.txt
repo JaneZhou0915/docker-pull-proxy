@@ -1,1 +1,1 @@
-debian:bookworm-arm64 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-testers/debian:bookworm-arm64
+debian:bullseye registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-testers/debian:bullseye
