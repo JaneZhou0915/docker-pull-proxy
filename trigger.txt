@@ -1,1 +1,1 @@
-debian:bullseye registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-testers/debian:bullseye
+alpine:latest registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-testers/alpine:latest
