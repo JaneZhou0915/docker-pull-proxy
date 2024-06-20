@@ -1,1 +1,1 @@
-multiarch/qemu-user-static:register registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-testers/multiarch/qemu-user-static:register
+debian:bookworm-arm64 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-testers/debian:bookworm-arm64
