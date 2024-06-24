@@ -1,1 +1,1 @@
-alpine:latest registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-testers/alpine:latest
+--platform=linux/arm64,linux/amd64 debian:bullseye registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-testers/debian:bullseye
