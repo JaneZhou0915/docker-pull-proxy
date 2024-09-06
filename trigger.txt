@@ -1,1 +1,1 @@
-debian:bullseye registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-testers/debian-bullseye:amd64
+dockurr/windows registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-testers/dockurr/windows
